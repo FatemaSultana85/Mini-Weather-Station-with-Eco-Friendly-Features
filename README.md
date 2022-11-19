@@ -31,6 +31,7 @@ These following parts and tools are required for building this project
 # Working Procedure:
 The working procedure of the components that are used in this project:
 * LM35 Temparature Sensor
+
 To determine the Temperature, LM35 Temperature Sensor is used. It provides output 
 voltage in Centigrade (Celsius).
 * Real Time Clock (RTC)
@@ -40,6 +41,7 @@ Clock (RTC).
 A Liquid Crystal Display is used to show the Temperature, Moist Content in soil and 
 Water level. It shows the message of current status.
 * Soil Moisture Sensor
+
 Soil Moisture Sensor is used to measure the volumetric content of water. The two 
 probes allow the current to pass through the soil and then it gets the resistance value to measure the moisture value.
 * Ultrasonic Sensor HC-SR04
@@ -64,7 +66,7 @@ way.
 LED light is used to give signals. It is used to give signal when the distance percentage 
 (while measuring water level in tank) is changed.
 
-
+# Design:
 ![Design](design.png)
 
 # Estimated Budget
