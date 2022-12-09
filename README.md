@@ -85,10 +85,12 @@ proper moisture for the plants to grow which results in economic growth.
 * It helps people know outside weather temperature and acknowledge instant time.
 * It can also be used in regular gardening or plant nurseries.
 
-
 ### Design:
 ![Design](design.png)
 
 ### Estimated Budget
 ![Estimated Budget](Budget.PNG)
+
+### Language:
+C++ and Arduino.
 
