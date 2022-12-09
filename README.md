@@ -1,8 +1,9 @@
 ### Project Title:
-Weather Station
+Mini Weather Station with Eco-Friendly Features
 
 ### Description:
-Weather warnings are important forecasts because they are used to protect life and property. The goal was to build a mini weather station where temperature, humidity, air pressure, raindrop, a warning will be captured and real-time will also be shown.
+Weather warnings are essential forecasts because they protect people and property. The goal is to create a tiny weather station that records temperature and warnings while also displaying real-time data.
+Also, Bangladesh is an agricultural country and hence there is a steady need to utilize technology for the betterment of production. Our goal is to make it easier to irrigate crops or plants so that they get enough water and that the moisture in the soil is appropriate for proper growth.
 
 
 ### Required Components
