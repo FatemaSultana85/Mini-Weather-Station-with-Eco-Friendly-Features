@@ -2,7 +2,7 @@
 Weather Station
 
 ### Description:
-Weather warnings are important forecasts because they are used to protect life and property. The system was proposed where future weather expectations were determined. The goal was to build a mini weather station where five fundamental physical parameters for weather prediction viz. temperature, humidity, air pressure, raindrop, a warning will be captured and real-time will also be shown.
+Weather warnings are important forecasts because they are used to protect life and property. The goal was to build a mini weather station where temperature, humidity, air pressure, raindrop, a warning will be captured and real-time will also be shown.
 
 
 ### Required Components
@@ -73,6 +73,18 @@ way.
 
 LED light is used to give signals. It is used to give signal when the distance percentage 
 (while measuring water level in tank) is changed.
+
+
+### Social Values
+* It helps farmers and gardeners plan for irrigation and protection of crops.
+* It helps increase production as the soil will have their 
+proper moisture for the plants to grow which results in economic growth.
+* Moisture-sensitive plants that were risky to cultivate before can be done easily with this system.
+* Auto Water Pump system assists tiny fish businessmen to maintain a fixed amount of water in their pond, as fish may die from lack of water or too much water. Also, this system can be employed in residences for moving fresh water from the lower water tank to the top water tank for the proper amount.
+* Alerting people about the motor’s condition.
+* It helps people know outside weather temperature and acknowledge instant time.
+* It can also be used in regular gardening or plant nurseries.
+
 
 ### Design:
 ![Design](design.png)
