@@ -1,11 +1,11 @@
-## Project Title:
+### Project Title:
 Weather Station
 
-## Description:
+### Description:
 Weather warnings are important forecasts because they are used to protect life and property. The system was proposed where future weather expectations were determined. The goal was to build a mini weather station where five fundamental physical parameters for weather prediction viz. temperature, humidity, air pressure, raindrop, a warning will be captured and real-time will also be shown.
 
 
-# Required Components
+### Required Components
 These following parts and tools are required for building this project
 
 * Arduino Mega 2560 REV3
@@ -74,9 +74,9 @@ way.
 LED light is used to give signals. It is used to give signal when the distance percentage 
 (while measuring water level in tank) is changed.
 
-# Design:
+### Design:
 ![Design](design.png)
 
-# Estimated Budget
+### Estimated Budget
 ![Estimated Budget](Budget.PNG)
 
