@@ -28,7 +28,7 @@ These following parts and tools are required for building this project
 * Breadboard
 * Jumper Wires (Male to Male, Female to Female, Male to Female)
 
-# Working Procedure:
+### Working Procedure:
 The working procedure of the components that are used in this project:
 * LM35 Temparature Sensor
 
